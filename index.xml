@@ -1,0 +1,108 @@
+<rss version="2.0">
+    <channel>
+        <language>es-es</language>
+        <category>ciberseguridad/tecnologia/moviles</category>
+        <copyright>Alejandro Prados – Todos los derechosreservados</copyright>
+        <title>Noticias sobre ciberseguridad , tecnologia y moviles</title>
+        <link>http://www.lenguajemarcas.es</link>
+        <description>Aqui podras ver noticias muy interesantes</description>
+        <lastBuildDate>Mon, 01 Jan 2024 08:30:00 +0000</lastBuildDate>
+        <ttl>3600</ttl>
+        <pubDate>Mon, 01 Jan 2024 08:30:00 +0000</pubDate>
+        <skipDays>
+            <day>Monday</day>
+            <day>Tuesday</day>
+        </skipDays>
+        <item>
+            <title>Nueva campaña de malware Lazarus contra el software legítimo</title>
+            <link>https://revistabyte.es/ciberseguridad/malware-lazarus/</link>
+            <description>El Equipo de Investigación y Análisis de Kaspersky (GReAT) ha desvelado una nueva campaña del grupo Lazarus, que apunta a organizaciones a nivel global. La investigación, presentada en el Security Analyst Summit (SAS), revela que esta sofisticada campaña APT se distribuye a través de malware y software legítimo.</description>
+            <category>ciberseguridad</category>
+            <author>alejandro@gmail.com</author>
+            <comments>https://www.xataka.com/contacto</comments>
+            <pubDate>Mon, 01 Jan 2024 08:30:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>La amenaza global del ransomware se mantiene en niveles máximos</title>
+            <link>https://revistabyte.es/ciberseguridad/ransomware-amenaza/</link>
+            <description>La amenaza global del ransomware se mantiene en niveles máximos: la mitad de las organizaciones de todos los tamaños, regiones y sectores han sido víctimas de este ataque en el último año</description>
+            <category>ciberseguridad</category>
+            <author>alejandro@gmail.com</author>
+            <comments>https://www.xataka.com/contacto</comments>
+            <pubDate>Mon, 01 Jan 2024 08:30:00 +0000</pubDate>
+
+        </item>
+        <item>
+            <title>ZTNA vs. VPN: examen de las diferencias entre dos modelos de seguridad de red en borde de la WAN</title>
+            <link>https://revistabyte.es/ciberseguridad/ztna-vpn/</link>
+            <description>ZTNA vs. VPN: examen de las diferencias entre dos modelos de seguridad de red en borde de la WAN.  A medida que la dependencia del mundo de las aplicaciones basadas en Internet sigue aumentando, también lo hace la tasa de ciberdelincuencia. Cybersecurity Ventures estima que los costes de la ciberdelincuencia mundial alcancen los 10,5 billones de euros anuales en 2025, frente a los 3 billones de euros de 2015.</description>
+            <category>ciberseguridad</category>
+            <author>alejandro@gmail.com</author>
+            <comments>https://www.xataka.com/contacto</comments> 
+            <pubDate>Mon, 01 Jan 2024 08:30:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>La importan  ia de la optimización de los sistemas mainframe</title>
+            <link>https://revistabyte.es/actualidad-it/mainframe-optimizacion/</link>
+            <description>La importancia de optimizar los sistemas mainframe frente a los siete cierres mensuales que enfrentará la banca en 2024, durante los días laborables, está cobrando una especial importancia entre las compañías. Y es que, en palabras de Orizon, estos «cierres negros» involucran un gran volumen de procesos, con algunas entidades superando los 800,000. Unos procesos intensivos que hacen que su ejecución se extienda en un promedio de tres a diez horas.</description>
+            <category>tecnologia</category>
+            <author>alejandro@gmail.com</author>
+            <comments>https://www.xataka.com/contacto</comments>
+            <pubDate>Mon, 01 Jan 2024 08:30:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>Sólo un 3% de empresas españolas no tienen planes para implementar la IA en sus operaciones de e-commerce</title>
+            <link>https://revistabyte.es/actualidad-it/ia-e-commerce/</link>
+            <description>En un mundo cada vez más digitalizado, la implementación de IA en las operaciones de e-commerce se erige como la vanguardia que redefine cómo interactuamos con el mercado. Así lo ha destacado Salesforce en su informe «State of Commerce», desarrollado mediante la recopilación de datos provenientes de 2,700 profesionales del comercio electrónico distribuidos en 15 países, con la participación de 200 expertos de España.</description>
+            <category>tecnologia</category>
+            <author>alejandro@gmail.com</author>
+            <comments>https://www.xataka.com/contacto</comments>
+            <pubDate>Mon, 01 Jan 2024 08:30:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>Así es como puedes multiplicar el potencial del dato con la IA Generativa</title>
+            <link>https://revistabyte.es/actualidad-it/dato-ia-2/</link>
+            <description>La revolución impulsada por la IA Generativa ha transformado la manera en que las empresas innovan, optimizan la productividad y desarrollan prototipos de aplicaciones. Sin embargo, para desbloquear completamente su potencial, resulta crucial enriquecer los modelos fundamentales de lenguaje y aprendizaje (LLM) con grandes cantidades de datos de alta calidad.</description>
+            <category>tecnologia</category>
+            <author>alejandro@gmail.com</author>
+            <comments>https://www.xataka.com/contacto</comments>
+            <pubDate>Mon, 01 Jan 2024 08:30:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>OnePlus 12, primeras impresiones: la intención de resucitar el término 'flagship killer'... adaptado a la inflación</title>
+            <link>https://www.xataka.com/moviles/oneplus-12-opiniones-toma-contacto-fotos</link>
+            <description>2023 fue un año vital para OnePlus. Tras un periodo un poco confuso en el que la línea entre OPPO y OnePlus era difusa, lanzaron dos de los mejores móviles de sus categorías. El OnePlus 11 no sólo era estable a nivel de rendimiento, sino que tenía unas buenas cámaras, un diseño robusto y un equilibrio muy interesante. El OnePlus Open es el candidato al mejor plegable del momento por sus bondades en ese campo, pero también por sus cámaras</description>
+            <category>moviles</category>
+            <author>alejandro@gmail.com</author>
+            <comments>https://www.xataka.com/contacto</comments>
+            <pubDate>Mon, 01 Jan 2024 08:30:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>Xiaomi Redmi Note 13 Series, primeras impresiones: la gran apuesta de Xiaomi para seguir reinando en la gama media</title>
+            <link>https://www.xataka.com/moviles/xiaomi-redmi-note-13-series-opiniones-toma-contacto-video-fotos</link>
+            <description>La gran apuesta de Xiaomi para 2024 ya ha llegado y se centra en la gama media. La compañía no ha querido esperar demasiado para mostrar al mundo la evolución de su popular familia de teléfonos Redmi Note y lo hace con cinco teléfonos, los nuevos Redmi Note 13, cuyas prestaciones y precio varían para amoldarse a todo tipo de públicos.</description>
+            <category>moviles</category>
+            <author>alejandro@gmail.com</author>
+            <comments>https://www.xataka.com/contacto</comments>
+            <pubDate>Mon, 01 Jan 2024 08:30:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>Tres tecnologías imprescindibles en la gama media de 2024</title>
+            <link>https://www.xataka.com/moviles/tres-tecnologias-imprescindibles-en-la-gama-media-de-2024</link>
+            <description>Los primeros gama media de 2024 empiezan a llegar, siendo claros referentes los nuevos Xiaomi POCO X6 y POCO X6 Pro. Estos teléfonos han aterrizado a un precio comedido y asentando algunas bases sobre las tecnologías que todo rival en este segmento debería incorporar.</description>
+            <category>moviles</category> 
+            <author>alejandro@gmail.com</author>
+            <comments>https://www.xataka.com/contacto</comments>
+            <pubDate>Mon, 01 Jan 2024 08:30:00 +0000 </pubDate>
+        </item>
+        <item>
+            <title>TCL tiene un plan para que sus pantallas no dañen nuestra vista: así es la tecnología NXTPAPER 3.0</title>
+            <link>https://www.xataka.com/moviles/tcl-tiene-plan-sus-pantallas-no-danen-nuestra-vista-asi-tecnologia-nxtpaper-3-0</link>
+            <description>TCL ha aprovechado el marco del CES 2024 para presentar sus nuevos productos. A destacar, todos aquellos que giran alrededor de su tecnología NXTPAPER 3.0, con la que quieren lograr la máxima optimización en paneles con miras a proteger la vista de los usuarios</description>
+            <category>moviles</category>
+            <author>alejandro@gmail.com</author>
+            <comments>https://www.xataka.com/contacto</comments>
+            <pubDate>Mon, 01 Jan 2024 08:30:00 +0000</pubDate> 
+       </item>
+    </channel>
+</rss>
